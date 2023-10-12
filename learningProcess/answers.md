@@ -8,7 +8,7 @@ The Feynman Technique is a learning method where you simplify complex topic in s
 
 #### Q2. In this video, what was the most interesting story or idea for you?
 
-My favourite part was when she saw how her lack of technical skills limited her from prospering in her career and she took charge to turn everything around and now she is a professor of engineering at Oakland University, an expert in her field.
+My favorite part was when she recognized her lack of technical skills, took charge, and transformed her career, eventually becoming a respected engineering professor at Oakland University and becoming an expert in her field.
 
 ---
 
