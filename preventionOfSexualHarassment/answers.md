@@ -11,7 +11,7 @@ They come in three forms:
 
 #### Q2. What would you do in case you face or witness any incident or repeated incidents of such behaviour?
 
-It is important to document the incident, speak up, report to HR, and seek help and emotional support for a safer environment.
+It is important to document the incident, speak up, file a formal complaint, report to HR/management, and seek emotional support for a safer environment. Keep in mind that each situation is unique and our approach may vary based on behavior severity and company policies. We can also consider taking legal action if necessary.
 
 ---
 
