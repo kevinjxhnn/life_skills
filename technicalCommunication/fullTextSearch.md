@@ -10,7 +10,7 @@ Lucene is a Java-based, open-source full-text search library that serves as the 
 Solr is an open-source search platform built on Lucene. It is designed for enterprise use, offering a range of advanced features. Solr is highly flexible and configurable, making it suitable for various search use cases. It excels in scalability, capable of efficiently handling large datasets and complex search requirements.
 
 ### 3. Elasticsearch
-Elasticsearch is an open-source, distributed search and analytics engine built on Lucene. It is ideal for real-time, distributed search and analytics use cases. Elasticsearch offers a rich set of features, including real-time indexing and analytics, and provides a user-friendly REST API for easy integration. It is highly flexible and excels in scalability, making it a popular choice for real-time data analysis, such as log and event data.
+Elasticsearch is an distributed search and analytics engine built on Lucene. It is ideal for real-time, distributed search and analytics use cases. Elasticsearch offers a rich set of features, including real-time indexing and analytics, and provides a user-friendly REST API for easy integration. It is highly flexible and excels in scalability, making it a popular choice for real-time data analysis, such as log and event data.
 
 <br>
 
