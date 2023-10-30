@@ -18,7 +18,10 @@ When we are in the Excitement quadrant, we may experience physical sensations li
 
 #### Q4. Paraphrase the Sleep is your Superpower video in your own words in brief. Only the points, no explanation.
 
-The video emphasizes that sleep is essential for both the brain and the body. Lack of sleep can harm memory and learning, weaken the immune system, and impact genetic activity. He advises maintaining regular sleep patterns and a cool sleeping environment for better sleep quality.
+ - The video emphasizes the essential role of sleep for both the brain and the body.
+ - Lack of sleep can have detrimental effects, including harming memory and learning, weakening the immune system, and impacting genetic activity.
+ - It is advisable to maintain regular sleep patterns.
+ - Creating a cool sleeping environment can contribute to better sleep quality.
 
 ---
 
@@ -30,7 +33,11 @@ Maintaining regular sleeping patterns coupled with a cool and comfortable enviro
 ---
 
 #### Q6. Paraphrase the video - Brain Changing Benefits of Exercise. Minimum 5 points, only the points.
-Exercise boosts our mood and attention and strengthens the brain. It enhances our memory and guards against cognitive decline making it essential for life long brain health safeguarding it against diseases like dementia and Alzheimer's.
+ - Exercise boosts mood and enhances attention.
+ - It strengthens the brain.
+ - Exercise improves memory.
+ - It guards against cognitive decline.
+ - Essential for lifelong brain health, protecting against diseases like dementia and Alzheimer's.
 
 ---
 
